@@ -1,4 +1,4 @@
-# $NetBSD: Makefile,v 1.15 2025/01/06 20:35:18 schmonz Exp $
+# $NetBSD: Makefile,v 1.17 2025/04/10 13:12:28 pin Exp $
 
 DISTNAME=	twitch-tui-2.6.18
 CATEGORIES=	chat
